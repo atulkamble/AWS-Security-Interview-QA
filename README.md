@@ -1,4 +1,4 @@
-# ✅ **AWS Security – Interview Questions & Answers (With Important Points)**
+# ✅ **AWS Security – Interview Questions & Answers 
 
 ---
 
